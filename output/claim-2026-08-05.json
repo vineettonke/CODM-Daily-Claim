@@ -1,26 +1,26 @@
 {
-  "player_id": "username",
+  "player_id": "denji-_-kun",
   "region": "auto",
   "country_guess": "IN",
   "profile": {
-    "username": "username",
-    "shortId": "8VUGGJ",
+    "username": "denji-_-kun",
+    "shortId": "5DUH68",
     "picUrl": "",
     "levelImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_playerlevel.png",
-    "rank": "Rookie I",
-    "rankImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_pvp_ranking_1_rating_1.png"
+    "rank": "Veteran V",
+    "rankImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_pvp_ranking_2_rating_5.png"
   },
   "resolved": {
     "region": "sa",
-    "country": "AU"
+    "country": "IN"
   },
-  "country": "AU",
+  "country": "IN",
   "freebies": [
     {
       "skuId": "com.activision.callofduty.weekotov2_1m_0_0",
       "name": "DAILY GIFT",
       "status": "ACTIVE",
-      "buyUrl": "https://order-eu.codashop.com/claim-freebie-reward",
+      "buyUrl": "https://order-sa.codashop.com/claim-freebie-reward",
       "remaining": 1,
       "limit": 1,
       "refreshRate": 86400.0,
