@@ -1,0 +1,55 @@
+{
+  "player_id": "denji-_-kun",
+  "region": "auto",
+  "country_guess": "IN",
+  "profile": {
+    "username": "denji-_-kun",
+    "shortId": "5DUH68",
+    "picUrl": "",
+    "levelImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_playerlevel.png",
+    "rank": "Veteran V",
+    "rankImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_pvp_ranking_2_rating_5.png"
+  },
+  "resolved": {
+    "region": "sa",
+    "country": "IN"
+  },
+  "country": "IN",
+  "freebies": [
+    {
+      "skuId": "com.activision.callofduty.webstore_18_0_0",
+      "name": "DAILY GIFT",
+      "status": "ACTIVE",
+      "buyUrl": "https://order-sa.codashop.com/claim-freebie-reward",
+      "remaining": 1,
+      "limit": 1,
+      "refreshRate": 86400.0,
+      "refreshAtUnix": 1786492800
+    },
+    {
+      "skuId": "com.activision.callofduty.weekotov2_1f_0_0",
+      "name": "FREE LEGENDARY CALLING CARD - UNSTOPPABLE",
+      "status": "ACTIVE",
+      "buyUrl": "https://order-sa.codashop.com/claim-freebie-reward",
+      "remaining": 1,
+      "limit": 1,
+      "refreshRate": 8640000000.0,
+      "refreshAtUnix": 10425542400
+    }
+  ],
+  "ok": true,
+  "claims": [
+    {
+      "skuId": "com.activision.callofduty.webstore_18_0_0",
+      "name": "DAILY GIFT",
+      "ok": true,
+      "result_code": 0,
+      "result": "SUCCESS",
+      "response": {
+        "RESULT_CODE": 0,
+        "errorCode": "",
+        "errorMsg": ""
+      }
+    }
+  ]
+}
